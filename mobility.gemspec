@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "mobility"
   spec.version       = Mobility::VERSION
   spec.authors       = ["Filippo Poltronieri"]
-  spec.email         = ["fpoltronieri@ihmc.us"]
+  spec.email         = ["filippo.poltronieri@igmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
